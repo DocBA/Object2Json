@@ -26,6 +26,7 @@ public final class BaseType {
 	private Character jcharacter;
 	private Double jDouble;
 	private Float jFloat;
+	private Boolean jBoolean;
 	private BigInteger jBigInteger;
 	private BigDecimal jBigDecimal;
 	
